@@ -4,4 +4,4 @@ This is a repository that I'm filling with code snippets of solutions to problem
 
 Every file of this repository is running and tested on Python 3 interpreter
 
-# pytho3 your_file_name.py to run
+# python3 your_file_name.py to run
